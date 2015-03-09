@@ -1,0 +1,1001 @@
+Name,Answer,,Violation Sample Value,Benign Sample Value,Funny Sample Prediction,Funny Sample Actual,Funny Sample Value
+Pohm,Neutral or indifferent,Somewhat uncomfortable,0,-1,Unfunny,Unfunny,0
+West,Somewhat pleased,Very comfortable,-1,2,Unfunny,Unfunny,0
+Ethan,A little upset,Very comfortable,1,2,Funny,Unfunny,0
+Flossie,Neutral or indifferent,Somewhat uncomfortable,0,-1,Unfunny,Unfunny,-1
+Lady,A little upset,Very comfortable,1,2,Funny,Unfunny,0
+Andrew,Somewhat pleased,Somewhat comfortable,-1,1,Unfunny,Unfunny,0
+Radical,A little upset,Very comfortable,1,2,Funny,Unfunny,0
+Allah,A little upset,Very uncomfortable,1,-2,Unfunny,Unfunny,0
+Mindy,Somewhat pleased,Very comfortable,-1,2,Unfunny,Funny,1
+Maven,A little upset,Very comfortable,1,2,Funny,Funny,2
+Chomper,Somewhat pleased,Very comfortable,-1,2,Unfunny,Funny,1
+Coondog Clarinet,Somewhat pleased,Somewhat uncomfortable,-1,-1,Unfunny,Funny,1
+Sniffy,Somewhat pleased,Neutral or indifferent,-1,0,Unfunny,Unfunny,-1
+Furry,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Unfunny,-1
+Coffee Cancer,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Wetb Wiggles,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Funny,1
+Boong Bjorn,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Funny,1
+Clit,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,0
+Fuckingbitch,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Bullwinkle Bra,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-1
+Cumbubble Cordelia,Very upset,Somewhat uncomfortable,2,-1,Unfunny,Unfunny,-2
+Mr. Peabody,Somewhat pleased,Very comfortable,-1,2,Unfunny,Funny,2
+Meth,Very upset,Somewhat uncomfortable,2,-1,Unfunny,Unfunny,-2
+Estefan,Very upset,Very comfortable,2,2,Funny,Unfunny,-2
+Catholic Cameroon,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-1
+Cockblocker,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Kabob,A little upset,Neutral or indifferent,1,0,Unfunny,Unfunny,-1
+Hore,Very upset,Somewhat uncomfortable,2,-1,Unfunny,Unfunny,-2
+Babushka Buttbang,Somewhat pleased,Neutral or indifferent,-1,0,Unfunny,Funny,1
+Spankthemonkey,A little upset,Very uncomfortable,1,-2,Unfunny,Unfunny,-2
+Yolanda,A little upset,Neutral or indifferent,1,0,Unfunny,Unfunny,0
+Lamb Chop,Neutral or indifferent,Somewhat uncomfortable,0,-1,Unfunny,Unfunny,0
+Honey Hooker,Somewhat pleased,Very uncomfortable,-1,-2,Unfunny,Unfunny,-2
+Scab,A little upset,Very uncomfortable,1,-2,Unfunny,Unfunny,0
+Rob Roy,Very pleased,Somewhat uncomfortable,-2,-1,Unfunny,Unfunny,0
+Sixsixsix,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-1
+Midori,A little upset,Somewhat comfortable,1,1,Funny,Unfunny,0
+Sixtynine Shao Kahn,Very upset,Very uncomfortable,2,-2,Unfunny,Funny,2
+Freefuck Falsetto,A little upset,Somewhat uncomfortable,1,-1,Unfunny,Unfunny,-2
+Spades,Neutral or indifferent,Very comfortable,0,2,Unfunny,Unfunny,0
+Voyager,Neutral or indifferent,Very comfortable,0,2,Unfunny,Unfunny,0
+Aaliyah,Neutral or indifferent,Somewhat uncomfortable,0,-1,Unfunny,Unfunny,-1
+Niglet,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,0
+Cupid,A little upset,Somewhat comfortable,1,1,Funny,Unfunny,0
+Myrtle,A little upset,Somewhat comfortable,1,1,Funny,Funny,1
+Mexican Mischief,Somewhat pleased,Somewhat uncomfortable,-1,-1,Unfunny,Funny,1
+Quinn,Somewhat pleased,Very comfortable,-1,2,Unfunny,Unfunny,0
+Comet,Very pleased,Very comfortable,-2,2,Unfunny,Unfunny,0
+Bertha,Very upset,Very comfortable,2,2,Funny,Unfunny,0
+Footfuck Fuzzball,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Bastard,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Peter,A little upset,Somewhat uncomfortable,1,-1,Unfunny,Funny,2
+Slicker,Somewhat pleased,Neutral or indifferent,-1,0,Unfunny,Unfunny,0
+Testicles,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Decaf Dildo,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,0
+Persimmon Pudd,A little upset,Somewhat uncomfortable,1,-1,Unfunny,Unfunny,0
+Federico,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Funny,1
+Execute Erin,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Claire,Somewhat pleased,Very comfortable,-1,2,Unfunny,Unfunny,-2
+Cuntsucker,A little upset,Very uncomfortable,1,-2,Unfunny,Unfunny,-2
+Champ,Very pleased,Very comfortable,-2,2,Unfunny,Unfunny,0
+Cum,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Link,Somewhat pleased,Neutral or indifferent,-1,0,Unfunny,Unfunny,0
+Chipmunk,A little upset,Somewhat uncomfortable,1,-1,Unfunny,Funny,2
+Mudslide,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Funny,1
+Giggles,Neutral or indifferent,Very comfortable,0,2,Unfunny,Funny,1
+Tigger,A little upset,Very comfortable,1,2,Funny,Unfunny,0
+Barbados,Somewhat pleased,Somewhat comfortable,-1,1,Unfunny,Unfunny,0
+Robert Rimjob,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Bunz Barface,Very upset,Somewhat comfortable,2,1,Funny,Unfunny,-1
+Fergie,Somewhat pleased,Very comfortable,-1,2,Unfunny,Unfunny,0
+Lois Loverocket,Somewhat pleased,Somewhat uncomfortable,-1,-1,Unfunny,Unfunny,0
+Ivan Israel's,A little upset,Somewhat comfortable,1,1,Funny,Unfunny,0
+Balsa,Somewhat pleased,Neutral or indifferent,-1,0,Unfunny,Unfunny,-1
+Blueberry,Somewhat pleased,Very comfortable,-1,2,Unfunny,Funny,1
+Melissa,Somewhat pleased,Somewhat comfortable,-1,1,Unfunny,Unfunny,-2
+Adrastea,Neutral or indifferent,Very comfortable,0,2,Unfunny,Unfunny,-1
+Fubar Faith,Neutral or indifferent,Somewhat uncomfortable,0,-1,Unfunny,Unfunny,-2
+Rafiki,A little upset,Somewhat comfortable,1,1,Funny,Funny,1
+Stupidfuck Sorbet,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Spooge Sao,Very upset,Somewhat uncomfortable,2,-1,Unfunny,Unfunny,-2
+Odyssey,Somewhat pleased,Very comfortable,-1,2,Unfunny,Unfunny,-1
+Spock,Very pleased,Very comfortable,-2,2,Unfunny,Funny,1
+Bette,Very upset,Neutral or indifferent,2,0,Unfunny,Funny,1
+Colombia,Somewhat pleased,Neutral or indifferent,-1,0,Unfunny,Unfunny,-1
+Orville,Somewhat pleased,Very comfortable,-1,2,Unfunny,Unfunny,0
+Zoinks,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Funny,1
+Flotsam,A little upset,Somewhat comfortable,1,1,Funny,Unfunny,-1
+Barfface,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-1
+Queen,Neutral or indifferent,Somewhat uncomfortable,0,-1,Unfunny,Unfunny,0
+Niggards,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Daiquiri,Neutral or indifferent,Very uncomfortable,0,-2,Unfunny,Unfunny,0
+Onyx,Neutral or indifferent,Neutral or indifferent,0,0,Unfunny,Unfunny,0
+Eatballs Elara,A little upset,Very uncomfortable,1,-2,Unfunny,Funny,1
+Cyprus,Neutral or indifferent,Very comfortable,0,2,Unfunny,Unfunny,-1
+Cumfest,Very upset,Very comfortable,2,2,Funny,Unfunny,-1
+Pluto,Neutral or indifferent,Very comfortable,0,2,Unfunny,Funny,1
+Swalow,A little upset,Very uncomfortable,1,-2,Unfunny,Unfunny,-2
+Okra,A little upset,Neutral or indifferent,1,0,Unfunny,Unfunny,0
+Beaner,A little upset,Somewhat comfortable,1,1,Funny,Unfunny,-1
+Niggor,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Riblet,Somewhat pleased,Neutral or indifferent,-1,0,Unfunny,Funny,1
+Beaver,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Hustler,Somewhat pleased,Very uncomfortable,-1,-2,Unfunny,Funny,1
+Elijah,Somewhat pleased,Neutral or indifferent,-1,0,Unfunny,Funny,2
+Crackwhore,Very upset,Very uncomfortable,2,-2,Unfunny,Funny,1
+Shag,Very upset,Neutral or indifferent,2,0,Unfunny,Unfunny,0
+Champagne,Very pleased,Very comfortable,-2,2,Unfunny,Unfunny,0
+Pussies Puck,Very upset,Very uncomfortable,2,-2,Unfunny,Funny,1
+Fabio Fu,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Unfunny,-2
+Didgeridoo,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Unfunny,-2
+Jew,A little upset,Very uncomfortable,1,-2,Unfunny,Unfunny,-1
+Dong,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-1
+Ezmerelda,Neutral or indifferent,Neutral or indifferent,0,0,Unfunny,Unfunny,0
+Suck Sumo,A little upset,Somewhat uncomfortable,1,-1,Unfunny,Unfunny,-2
+Niggarded,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Gross,A little upset,Neutral or indifferent,1,0,Unfunny,Funny,1
+Boong,A little upset,Somewhat uncomfortable,1,-1,Unfunny,Funny,1
+Church Cherry,A little upset,Neutral or indifferent,1,0,Unfunny,Unfunny,0
+Lisa,Very pleased,Very comfortable,-2,2,Unfunny,Unfunny,0
+Squirrel,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Unfunny,0
+Diseases,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Franklin,Somewhat pleased,Very comfortable,-1,2,Unfunny,Unfunny,0
+Skanky,A little upset,Somewhat uncomfortable,1,-1,Unfunny,Unfunny,0
+Nasty,Very upset,Somewhat uncomfortable,2,-1,Unfunny,Unfunny,-2
+Crime,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Unfunny,-2
+Ewan,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Unfunny,-1
+Setebos Sex,Neutral or indifferent,Very uncomfortable,0,-2,Unfunny,Unfunny,-1
+Pumbaa,Neutral or indifferent,Somewhat uncomfortable,0,-1,Unfunny,Funny,1
+Coach Cancer,A little upset,Very uncomfortable,1,-2,Unfunny,Unfunny,-2
+Bountybar Bacon,Neutral or indifferent,Very uncomfortable,0,-2,Unfunny,Unfunny,-1
+Cairo,Somewhat pleased,Somewhat uncomfortable,-1,-1,Unfunny,Unfunny,0
+Lovebone,A little upset,Very uncomfortable,1,-2,Unfunny,Unfunny,-1
+Pixy,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Unfunny,0
+Darius,A little upset,Very comfortable,1,2,Funny,Unfunny,0
+Pisser Piccolo,A little upset,Somewhat uncomfortable,1,-1,Unfunny,Unfunny,-2
+Cumqueen Celine,Very upset,Somewhat comfortable,2,1,Funny,Unfunny,-2
+Picaninny Pork Chop,Somewhat pleased,Neutral or indifferent,-1,0,Unfunny,Unfunny,-2
+Baptist,Somewhat pleased,Neutral or indifferent,-1,0,Unfunny,Unfunny,0
+Rearentry Rome,Neutral or indifferent,Neutral or indifferent,0,0,Unfunny,Funny,1
+Smiley Shitlist,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-1
+Cassidey,Very pleased,Neutral or indifferent,-2,0,Unfunny,Unfunny,0
+Fireball,Very pleased,Very comfortable,-2,2,Unfunny,Unfunny,0
+Shiting,Very upset,Somewhat uncomfortable,2,-1,Unfunny,Unfunny,-2
+Bicurious,Very upset,Neutral or indifferent,2,0,Unfunny,Unfunny,0
+Booger,Neutral or indifferent,Very comfortable,0,2,Unfunny,Funny,1
+Monaco Meatrack,A little upset,Neutral or indifferent,1,0,Unfunny,Funny,1
+Ribeye,Very pleased,Somewhat comfortable,-2,1,Unfunny,Funny,2
+Tantra,Neutral or indifferent,Neutral or indifferent,0,0,Unfunny,Unfunny,0
+Abraham,A little upset,Very comfortable,1,2,Funny,Unfunny,0
+Captain,Neutral or indifferent,Very comfortable,0,2,Unfunny,Funny,2
+Spot Snigger,A little upset,Somewhat uncomfortable,1,-1,Unfunny,Unfunny,-2
+Softy Skanky,Very upset,Very uncomfortable,2,-2,Unfunny,Funny,1
+Oneida,Neutral or indifferent,Very comfortable,0,2,Unfunny,Unfunny,0
+Grape,A little upset,Very comfortable,1,2,Funny,Funny,1
+Balllicker,Neutral or indifferent,Very uncomfortable,0,-2,Unfunny,Funny,1
+Fionna,Somewhat pleased,Very comfortable,-1,2,Unfunny,Unfunny,0
+Dali Dickhead,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Big Girl,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-1
+Cameltoe Chubs,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Linus,Very pleased,Neutral or indifferent,-2,0,Unfunny,Funny,2
+Tosser,Very upset,Somewhat comfortable,2,1,Funny,Unfunny,-1
+Pickaninny Pigpen,Very upset,Neutral or indifferent,2,0,Unfunny,Unfunny,0
+Smiley,Very pleased,Very comfortable,-2,2,Unfunny,Unfunny,-1
+China,Neutral or indifferent,Very comfortable,0,2,Unfunny,Unfunny,0
+Clogwog Commander,Very upset,Very comfortable,2,2,Funny,Unfunny,-1
+Fatso,A little upset,Neutral or indifferent,1,0,Unfunny,Funny,1
+Nipple,A little upset,Very uncomfortable,1,-2,Unfunny,Unfunny,-1
+Booty Brian,A little upset,Somewhat comfortable,1,1,Funny,Unfunny,-2
+Sandm,Neutral or indifferent,Neutral or indifferent,0,0,Unfunny,Unfunny,-1
+Slider,Very pleased,Somewhat comfortable,-2,1,Unfunny,Unfunny,0
+Bullwinkle,Somewhat pleased,Somewhat comfortable,-1,1,Unfunny,Funny,1
+Hillary Hillbillies,Neutral or indifferent,Very uncomfortable,0,-2,Unfunny,Unfunny,0
+Gaysex,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Dripdick,Very upset,Somewhat uncomfortable,2,-1,Unfunny,Unfunny,-2
+Setebos,A little upset,Neutral or indifferent,1,0,Unfunny,Unfunny,0
+Fajita,Somewhat pleased,Somewhat comfortable,-1,1,Unfunny,Unfunny,-2
+Fritz,Somewhat pleased,Somewhat comfortable,-1,1,Unfunny,Unfunny,0
+Sally Slutt,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Hijack,Neutral or indifferent,Somewhat uncomfortable,0,-1,Unfunny,Unfunny,0
+Shenzi Stroking,A little upset,Somewhat uncomfortable,1,-1,Unfunny,Funny,1
+Sextogo Smirnoff,A little upset,Very uncomfortable,1,-2,Unfunny,Unfunny,0
+Percy Pissoff,Neutral or indifferent,Very uncomfortable,0,-2,Unfunny,Unfunny,-2
+Punch,Somewhat pleased,Somewhat comfortable,-1,1,Unfunny,Unfunny,0
+Bazooms Bambi,A little upset,Somewhat comfortable,1,1,Funny,Funny,1
+Fatfuck,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Twister,Neutral or indifferent,Very comfortable,0,2,Unfunny,Unfunny,0
+Calypso,Very pleased,Neutral or indifferent,-2,0,Unfunny,Unfunny,0
+Joplin,Somewhat pleased,Neutral or indifferent,-1,0,Unfunny,Unfunny,0
+Amalthea,Neutral or indifferent,Neutral or indifferent,0,0,Unfunny,Unfunny,0
+Pussy,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Weapon,Somewhat pleased,Somewhat uncomfortable,-1,-1,Unfunny,Unfunny,-1
+Turnip,A little upset,Very comfortable,1,2,Funny,Funny,1
+Sloppy Joe,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Funny,1
+Perm Pube,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Heffer,Neutral or indifferent,Somewhat uncomfortable,0,-1,Unfunny,Unfunny,-1
+Kilimanjaro,Somewhat pleased,Somewhat comfortable,-1,1,Unfunny,Unfunny,0
+Vulva,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Fuji,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Funny,1
+Fifi,Very upset,Neutral or indifferent,2,0,Unfunny,Funny,1
+Phoenix,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Unfunny,0
+Fuks Flurry,A little upset,Very uncomfortable,1,-2,Unfunny,Unfunny,-1
+Breastjob,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Pee Poplar,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Fuckfreak,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Clifford Criminal,Very upset,Neutral or indifferent,2,0,Unfunny,Unfunny,0
+Filbert,Neutral or indifferent,Somewhat uncomfortable,0,-1,Unfunny,Unfunny,-2
+Flydie,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Unfunny,-2
+Tard Tanker,A little upset,Very uncomfortable,1,-2,Unfunny,Funny,1
+Lightning,Very pleased,Neutral or indifferent,-2,0,Unfunny,Funny,1
+Cannoli,Neutral or indifferent,Very comfortable,0,2,Unfunny,Unfunny,0
+Scone,Neutral or indifferent,Neutral or indifferent,0,0,Unfunny,Unfunny,0
+Stringer,Neutral or indifferent,Neutral or indifferent,0,0,Unfunny,Funny,1
+Cuddles,A little upset,Very comfortable,1,2,Funny,Funny,2
+Idiot,Very upset,Somewhat uncomfortable,2,-1,Unfunny,Funny,2
+Snoopy,Neutral or indifferent,Very comfortable,0,2,Unfunny,Unfunny,-1
+Kaffer,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Unfunny,-1
+Chubby,A little upset,Somewhat comfortable,1,1,Funny,Funny,1
+Earnest,Somewhat pleased,Very comfortable,-1,2,Unfunny,Unfunny,0
+Niggers,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Bible,Neutral or indifferent,Very uncomfortable,0,-2,Unfunny,Unfunny,0
+Ivory,Somewhat pleased,Very comfortable,-1,2,Unfunny,Unfunny,0
+Buttpirate,Very upset,Very uncomfortable,2,-2,Unfunny,Funny,2
+Biter,A little upset,Neutral or indifferent,1,0,Unfunny,Funny,1
+Cuntsucker Cooper,Neutral or indifferent,Neutral or indifferent,0,0,Unfunny,Unfunny,-2
+Rentafuck,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Weenie,Very upset,Somewhat uncomfortable,2,-1,Unfunny,Unfunny,-1
+Cocklover,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Gangbang Grimsby,A little upset,Very uncomfortable,1,-2,Unfunny,Funny,1
+Cymbal Christian,Neutral or indifferent,Very uncomfortable,0,-2,Unfunny,Unfunny,0
+Butters,Somewhat pleased,Somewhat comfortable,-1,1,Unfunny,Funny,1
+Kills,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Emma,Somewhat pleased,Very comfortable,-1,2,Unfunny,Unfunny,0
+Indiana,Very pleased,Very comfortable,-2,2,Unfunny,Unfunny,-2
+Tittie Taylor,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Sextoy Sage,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Taff Timor,Neutral or indifferent,Very uncomfortable,0,-2,Unfunny,Unfunny,-2
+Sextogo,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Sexy-slim,Neutral or indifferent,Neutral or indifferent,0,0,Unfunny,Unfunny,0
+Hayes,Very pleased,Very comfortable,-2,2,Unfunny,Unfunny,-2
+Duncan,Very pleased,Very comfortable,-2,2,Unfunny,Unfunny,0
+Chickslick,Neutral or indifferent,Very uncomfortable,0,-2,Unfunny,Unfunny,0
+Vibr,A little upset,Very uncomfortable,1,-2,Unfunny,Unfunny,0
+Phuked,A little upset,Very uncomfortable,1,-2,Unfunny,Funny,1
+Dinky,A little upset,Neutral or indifferent,1,0,Unfunny,Funny,1
+Kurt,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Unfunny,0
+Sexhouse Sherlock,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Snow,Very pleased,Neutral or indifferent,-2,0,Unfunny,Unfunny,0
+Larissa Lesbain,Very upset,Neutral or indifferent,2,0,Unfunny,Unfunny,-2
+Strudel Shitfull,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Hook,Somewhat pleased,Very comfortable,-1,2,Unfunny,Unfunny,0
+Cocksman Cabernet,Very upset,Somewhat uncomfortable,2,-1,Unfunny,Unfunny,-1
+Doodle Diddle,A little upset,Somewhat comfortable,1,1,Funny,Funny,1
+Joyce,Very pleased,Very comfortable,-2,2,Unfunny,Unfunny,-2
+Toon,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Unfunny,0
+Pornography Pinot Noir,A little upset,Very uncomfortable,1,-2,Unfunny,Unfunny,-2
+Elizabeth,Somewhat pleased,Very comfortable,-1,2,Unfunny,Unfunny,-2
+Spik,Neutral or indifferent,Neutral or indifferent,0,0,Unfunny,Unfunny,0
+Cyclone,Very pleased,Very comfortable,-2,2,Unfunny,Unfunny,0
+Bluto Buttmuncher,Very upset,Somewhat uncomfortable,2,-1,Unfunny,Unfunny,-2
+Bonnie,Somewhat pleased,Very comfortable,-1,2,Unfunny,Funny,2
+Bermuda,Somewhat pleased,Very comfortable,-1,2,Unfunny,Unfunny,0
+Lee,Very pleased,Very comfortable,-2,2,Unfunny,Unfunny,0
+Jambalaya,A little upset,Somewhat comfortable,1,1,Funny,Unfunny,0
+Nlggor,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Zigabo,Neutral or indifferent,Very comfortable,0,2,Unfunny,Unfunny,0
+Ghost,Neutral or indifferent,Neutral or indifferent,0,0,Unfunny,Unfunny,0
+Schroeder Sniggered,Neutral or indifferent,Somewhat uncomfortable,0,-1,Unfunny,Unfunny,-2
+Megaclite Mormon,A little upset,Somewhat uncomfortable,1,-1,Unfunny,Unfunny,-1
+Fairy,A little upset,Neutral or indifferent,1,0,Unfunny,Unfunny,0
+Spit,A little upset,Somewhat uncomfortable,1,-1,Unfunny,Unfunny,-2
+Yogi,Very pleased,Very comfortable,-2,2,Unfunny,Unfunny,0
+Minnow,Neutral or indifferent,Very comfortable,0,2,Unfunny,Funny,1
+Cairo Crapper,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-1
+Dakar,Somewhat pleased,Somewhat comfortable,-1,1,Unfunny,Unfunny,0
+Torture,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Flamer,A little upset,Very uncomfortable,1,-2,Unfunny,Unfunny,0
+Ankara,Very pleased,Very comfortable,-2,2,Unfunny,Unfunny,-2
+Lou,Neutral or indifferent,Very comfortable,0,2,Unfunny,Unfunny,-1
+Wrinkles,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Funny,1
+Fletcher,Very pleased,Very comfortable,-2,2,Unfunny,Unfunny,0
+Montgomery,Very pleased,Somewhat comfortable,-2,1,Unfunny,Unfunny,-1
+Poplar,Neutral or indifferent,Neutral or indifferent,0,0,Unfunny,Unfunny,-1
+Doggiestyle Dolly,A little upset,Somewhat uncomfortable,1,-1,Unfunny,Funny,1
+Cyprus,Neutral or indifferent,Very comfortable,0,2,Unfunny,Unfunny,-1
+Peppermint Peepshow,Very upset,Somewhat uncomfortable,2,-1,Unfunny,Unfunny,0
+Cameroon,A little upset,Neutral or indifferent,1,0,Unfunny,Funny,1
+Eatballs,Very upset,Very uncomfortable,2,-2,Unfunny,Funny,1
+Cumming Champagne,Neutral or indifferent,Very uncomfortable,0,-2,Unfunny,Unfunny,0
+Gabriel,Very pleased,Very comfortable,-2,2,Unfunny,Unfunny,0
+Veggie,A little upset,Somewhat comfortable,1,1,Funny,Unfunny,-1
+Squawk,A little upset,Very uncomfortable,1,-2,Unfunny,Funny,1
+Buchanan,Neutral or indifferent,Very comfortable,0,2,Unfunny,Funny,1
+Wop,Very upset,Somewhat comfortable,2,1,Funny,Unfunny,-1
+Umberto,Very pleased,Somewhat comfortable,-2,1,Unfunny,Unfunny,0
+Taven,Neutral or indifferent,Somewhat uncomfortable,0,-1,Unfunny,Unfunny,0
+Footfuck,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Cherrypopper,A little upset,Very uncomfortable,1,-2,Unfunny,Unfunny,-1
+Shitty,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-1
+Flora Fuckfreak,A little upset,Very comfortable,1,2,Funny,Unfunny,-2
+Fern,Somewhat pleased,Somewhat comfortable,-1,1,Unfunny,Unfunny,0
+Bach,Very pleased,Somewhat comfortable,-2,1,Unfunny,Unfunny,0
+Pita Protestant,Neutral or indifferent,Somewhat uncomfortable,0,-1,Unfunny,Funny,1
+Shitfit,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-1
+Tramp,Neutral or indifferent,Very uncomfortable,0,-2,Unfunny,Funny,1
+Goddamnit,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Patch Poverty,Neutral or indifferent,Somewhat uncomfortable,0,-1,Unfunny,Funny,1
+Turnip Tunneloflove,A little upset,Neutral or indifferent,1,0,Unfunny,Unfunny,-2
+Pussypounder,Neutral or indifferent,Neutral or indifferent,0,0,Unfunny,Funny,2
+Desdemona,Neutral or indifferent,Somewhat uncomfortable,0,-1,Unfunny,Funny,1
+Disaronno,A little upset,Somewhat uncomfortable,1,-1,Unfunny,Unfunny,0
+Astro Asskiss,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-1
+Shitlist Snow,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Demon,Neutral or indifferent,Somewhat uncomfortable,0,-1,Unfunny,Unfunny,-2
+Couscous,Somewhat pleased,Neutral or indifferent,-1,0,Unfunny,Unfunny,0
+Shack Slimebucket,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-1
+Isadore,Neutral or indifferent,Very comfortable,0,2,Unfunny,Funny,2
+Peanut Penises,Very upset,Neutral or indifferent,2,0,Unfunny,Unfunny,-2
+Monet Mothafuckaz,Very upset,Somewhat uncomfortable,2,-1,Unfunny,Unfunny,-2
+Mileena,Neutral or indifferent,Very comfortable,0,2,Unfunny,Unfunny,0
+Erin,Very pleased,Very comfortable,-2,2,Unfunny,Unfunny,0
+Flanders,Very pleased,Very comfortable,-2,2,Unfunny,Unfunny,0
+Tambourine,Very pleased,Very comfortable,-2,2,Unfunny,Unfunny,0
+Charlie,Very pleased,Very comfortable,-2,2,Unfunny,Unfunny,0
+Blacks,Neutral or indifferent,Neutral or indifferent,0,0,Unfunny,Unfunny,0
+Sareena,Somewhat pleased,Very comfortable,-1,2,Unfunny,Funny,1
+Pickle,Somewhat pleased,Neutral or indifferent,-1,0,Unfunny,Funny,1
+Spunk Spades,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Hermes,Somewhat pleased,Somewhat comfortable,-1,1,Unfunny,Unfunny,-1
+Squirmy Sniggered,Neutral or indifferent,Somewhat uncomfortable,0,-1,Unfunny,Unfunny,-1
+Slippy,Somewhat pleased,Very uncomfortable,-1,-2,Unfunny,Funny,1
+Lassie,Very pleased,Somewhat comfortable,-2,1,Unfunny,Unfunny,0
+Sam,Very pleased,Somewhat comfortable,-2,1,Unfunny,Unfunny,-2
+Facefucker Fuji,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Ironman,Very pleased,Somewhat comfortable,-2,1,Unfunny,Funny,2
+Shallot,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Unfunny,-1
+Diva,Very pleased,Neutral or indifferent,-2,0,Unfunny,Funny,1
+Serena Samckdaddy,A little upset,Very uncomfortable,1,-2,Unfunny,Funny,1
+Congo,Somewhat pleased,Somewhat comfortable,-1,1,Unfunny,Unfunny,-2
+Goddamnes,A little upset,Somewhat uncomfortable,1,-1,Unfunny,Unfunny,-2
+Mocha,Very pleased,Neutral or indifferent,-2,0,Unfunny,Unfunny,0
+Vodka,Neutral or indifferent,Neutral or indifferent,0,0,Unfunny,Unfunny,-2
+Bunny,Somewhat pleased,Somewhat uncomfortable,-1,-1,Unfunny,Unfunny,0
+Prissy,A little upset,Neutral or indifferent,1,0,Unfunny,Unfunny,-1
+Niggerhead,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Irving Itch,A little upset,Very uncomfortable,1,-2,Unfunny,Unfunny,0
+Beastiality Barky,Neutral or indifferent,Very uncomfortable,0,-2,Unfunny,Funny,2
+Phuq,A little upset,Somewhat uncomfortable,1,-1,Unfunny,Unfunny,-2
+Joe,Neutral or indifferent,Very comfortable,0,2,Unfunny,Unfunny,0
+Vaca,Neutral or indifferent,Neutral or indifferent,0,0,Unfunny,Funny,1
+Valentina,Somewhat pleased,Somewhat uncomfortable,-1,-1,Unfunny,Funny,1
+Olivia,Somewhat pleased,Very comfortable,-1,2,Unfunny,Unfunny,-2
+Bomb,Neutral or indifferent,Neutral or indifferent,0,0,Unfunny,Unfunny,-1
+Elvis,A little upset,Very comfortable,1,2,Funny,Unfunny,0
+Whore Willie,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Kumquat,Somewhat pleased,Somewhat uncomfortable,-1,-1,Unfunny,Unfunny,-1
+Houston,Neutral or indifferent,Very comfortable,0,2,Unfunny,Unfunny,0
+Margarita,Somewhat pleased,Very uncomfortable,-1,-2,Unfunny,Unfunny,-2
+Nastybitch Neo,A little upset,Very uncomfortable,1,-2,Unfunny,Funny,1
+Timor Titfuck,A little upset,Very uncomfortable,1,-2,Unfunny,Unfunny,-2
+Bob,Very pleased,Very comfortable,-2,2,Unfunny,Unfunny,-2
+Goddammit,Very upset,Somewhat uncomfortable,2,-1,Unfunny,Unfunny,-1
+Buttfucker,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-1
+Nacho,Very pleased,Neutral or indifferent,-2,0,Unfunny,Unfunny,-1
+Scat,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-1
+Stripclub,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-1
+Uma,Somewhat pleased,Very comfortable,-1,2,Unfunny,Unfunny,0
+Honk,A little upset,Very comfortable,1,2,Funny,Funny,1
+Titan,Very pleased,Somewhat uncomfortable,-2,-1,Unfunny,Unfunny,-1
+Stiffy Snoopy,A little upset,Neutral or indifferent,1,0,Unfunny,Funny,1
+Boobs Bazooka,A little upset,Very uncomfortable,1,-2,Unfunny,Unfunny,-2
+Big Boy,Very pleased,Very comfortable,-2,2,Unfunny,Unfunny,0
+Premature,Very upset,Somewhat comfortable,2,1,Funny,Unfunny,-2
+Poontang,Very upset,Very uncomfortable,2,-2,Unfunny,Funny,1
+Johnny Cage,Somewhat pleased,Very comfortable,-1,2,Unfunny,Funny,1
+Tenor,Neutral or indifferent,Neutral or indifferent,0,0,Unfunny,Unfunny,-1
+Waffle,A little upset,Somewhat comfortable,1,1,Funny,Funny,1
+Oboe,Somewhat pleased,Very comfortable,-1,2,Unfunny,Unfunny,0
+Faith,Somewhat pleased,Somewhat comfortable,-1,1,Unfunny,Unfunny,-2
+Fuckedup,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-1
+Arthur,Somewhat pleased,Very comfortable,-1,2,Unfunny,Unfunny,-1
+Pimper,A little upset,Neutral or indifferent,1,0,Unfunny,Funny,1
+Wanking,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,0
+Paparazzi,A little upset,Somewhat comfortable,1,1,Funny,Unfunny,0
+Fuckers,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Charles Coondog,Very upset,Very uncomfortable,2,-2,Unfunny,Funny,1
+Orly,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Unfunny,-1
+Kore,Somewhat pleased,Somewhat uncomfortable,-1,-1,Unfunny,Unfunny,0
+Chloe,Neutral or indifferent,Very comfortable,0,2,Unfunny,Unfunny,0
+Rin Tin Tin,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Unfunny,0
+Givehead,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Pumpkin,Somewhat pleased,Very comfortable,-1,2,Unfunny,Funny,2
+Cheeseball,Neutral or indifferent,Very uncomfortable,0,-2,Unfunny,Funny,1
+Rhea Radical,A little upset,Somewhat comfortable,1,1,Funny,Unfunny,-1
+Japanese,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Funny,1
+Michael Motherfucking,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-1
+Venus,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Unfunny,0
+Commander,Somewhat pleased,Neutral or indifferent,-1,0,Unfunny,Unfunny,-1
+Whitetrash,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Carey,Neutral or indifferent,Very comfortable,0,2,Unfunny,Unfunny,0
+Apricot Assranger,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Clogwog,Very pleased,Somewhat comfortable,-2,1,Unfunny,Funny,1
+Ivanhoe,Somewhat pleased,Very comfortable,-1,2,Unfunny,Unfunny,0
+Bonzai,Somewhat pleased,Neutral or indifferent,-1,0,Unfunny,Unfunny,0
+Narcissus Nigga,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Elsa,Very pleased,Very comfortable,-2,2,Unfunny,Funny,1
+Rigger,A little upset,Somewhat uncomfortable,1,-1,Unfunny,Unfunny,0
+Ole,A little upset,Neutral or indifferent,1,0,Unfunny,Unfunny,-1
+Chasm,Somewhat pleased,Somewhat comfortable,-1,1,Unfunny,Unfunny,0
+Egypt,Somewhat pleased,Very comfortable,-1,2,Unfunny,Unfunny,0
+Mothafuck,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Snake Shat,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Crotch,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Avril,Somewhat pleased,Somewhat comfortable,-1,1,Unfunny,Funny,1
+Arizona,Very pleased,Very comfortable,-2,2,Unfunny,Unfunny,-1
+Harp,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Funny,1
+Mist,Somewhat pleased,Neutral or indifferent,-1,0,Unfunny,Unfunny,-2
+Gummer Garfield,Very pleased,Somewhat comfortable,-2,1,Unfunny,Unfunny,0
+Eclipse,Somewhat pleased,Somewhat comfortable,-1,1,Unfunny,Unfunny,0
+Fionna Fucking,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Domino Dumbfuck,Very upset,Very uncomfortable,2,-2,Unfunny,Funny,1
+Yasmine,Very pleased,Very comfortable,-2,2,Unfunny,Unfunny,0
+Fannyfucker,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Sarge,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Funny,1
+Holmes,A little upset,Very comfortable,1,2,Funny,Unfunny,0
+Vanity,Neutral or indifferent,Neutral or indifferent,0,0,Unfunny,Funny,2
+Einstein,Somewhat pleased,Very comfortable,-1,2,Unfunny,Funny,1
+Johnson,Neutral or indifferent,Very comfortable,0,2,Unfunny,Unfunny,0
+Looser,Very upset,Somewhat uncomfortable,2,-1,Unfunny,Unfunny,-2
+Osmond,Somewhat pleased,Neutral or indifferent,-1,0,Unfunny,Funny,1
+Daffy Demon,Neutral or indifferent,Somewhat uncomfortable,0,-1,Unfunny,Funny,1
+Dumpy,Neutral or indifferent,Neutral or indifferent,0,0,Unfunny,Funny,1
+Dumpling,Very pleased,Very uncomfortable,-2,-2,Unfunny,Unfunny,-1
+Hooters,A little upset,Very uncomfortable,1,-2,Unfunny,Funny,1
+Faggot,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-1
+Bugle,Neutral or indifferent,Somewhat uncomfortable,0,-1,Unfunny,Unfunny,0
+Piglet Perv,Somewhat pleased,Very uncomfortable,-1,-2,Unfunny,Unfunny,-2
+Minnie,Somewhat pleased,Very comfortable,-1,2,Unfunny,Unfunny,-1
+Chappy Creamy,Somewhat pleased,Very comfortable,-1,2,Unfunny,Funny,1
+Assmonkey,Somewhat pleased,Very uncomfortable,-1,-2,Unfunny,Unfunny,-2
+Brazil Blacks,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-1
+Apricot,A little upset,Very comfortable,1,2,Funny,Unfunny,-1
+Pendy,A little upset,Very uncomfortable,1,-2,Unfunny,Unfunny,0
+Selma,Somewhat pleased,Neutral or indifferent,-1,0,Unfunny,Unfunny,0
+Geek,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Unfunny,0
+Kyle,A little upset,Very comfortable,1,2,Funny,Unfunny,0
+Metis Mattressprincess,Neutral or indifferent,Very uncomfortable,0,-2,Unfunny,Unfunny,0
+Jicama,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Unfunny,0
+Slaughter,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-1
+Feces,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Tinkle,Very upset,Somewhat comfortable,2,1,Funny,Funny,1
+Genital Gooey,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-1
+Erma Enema,A little upset,Very uncomfortable,1,-2,Unfunny,Unfunny,-2
+Cleveland,Neutral or indifferent,Very uncomfortable,0,-2,Unfunny,Unfunny,0
+Denver,Very pleased,Very comfortable,-2,2,Unfunny,Unfunny,0
+Neso,Very pleased,Very comfortable,-2,2,Unfunny,Funny,1
+Butchbabes,A little upset,Very uncomfortable,1,-2,Unfunny,Unfunny,-2
+Cinnamon,Somewhat pleased,Somewhat comfortable,-1,1,Unfunny,Unfunny,-1
+Jones,Somewhat pleased,Somewhat comfortable,-1,1,Unfunny,Unfunny,0
+Tina,Neutral or indifferent,Very comfortable,0,2,Unfunny,Unfunny,-2
+Flange,Neutral or indifferent,Neutral or indifferent,0,0,Unfunny,Funny,1
+Joint,Neutral or indifferent,Very uncomfortable,0,-2,Unfunny,Unfunny,-1
+Othello,Somewhat pleased,Somewhat comfortable,-1,1,Unfunny,Unfunny,-2
+Elvira,A little upset,Somewhat comfortable,1,1,Funny,Unfunny,-2
+Easyslut Elkie,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Farley Fistfucked,Somewhat pleased,Very uncomfortable,-1,-2,Unfunny,Funny,2
+Execute Erma,A little upset,Somewhat uncomfortable,1,-1,Unfunny,Unfunny,-2
+Dammit,A little upset,Very uncomfortable,1,-2,Unfunny,Unfunny,0
+Focker,A little upset,Somewhat uncomfortable,1,-1,Unfunny,Unfunny,-1
+Charon,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Unfunny,0
+Squall,A little upset,Somewhat comfortable,1,1,Funny,Unfunny,-2
+Dale,Very pleased,Very comfortable,-2,2,Unfunny,Unfunny,0
+Matilda Masturbating,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Dina,Somewhat pleased,Very comfortable,-1,2,Unfunny,Funny,1
+Beulah Bombing,A little upset,Somewhat comfortable,1,1,Funny,Unfunny,0
+Andorra,Somewhat pleased,Very comfortable,-1,2,Unfunny,Unfunny,0
+Ulysses,Somewhat pleased,Neutral or indifferent,-1,0,Unfunny,Unfunny,0
+Brownie,Somewhat pleased,Very comfortable,-1,2,Unfunny,Funny,1
+Chinaman,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Andorra Asslover,Somewhat pleased,Very uncomfortable,-1,-2,Unfunny,Unfunny,-2
+Mishka,Somewhat pleased,Neutral or indifferent,-1,0,Unfunny,Unfunny,0
+Conrad,Very pleased,Very comfortable,-2,2,Unfunny,Unfunny,0
+Orel,Somewhat pleased,Neutral or indifferent,-1,0,Unfunny,Unfunny,-2
+Whash Whiskey,Neutral or indifferent,Somewhat uncomfortable,0,-1,Unfunny,Funny,1
+Greaseball Gustavia,Neutral or indifferent,Somewhat uncomfortable,0,-1,Unfunny,Funny,1
+Dolly,Very pleased,Very comfortable,-2,2,Unfunny,Unfunny,0
+Littlefoot,A little upset,Somewhat uncomfortable,1,-1,Unfunny,Funny,2
+Leda,Somewhat pleased,Somewhat comfortable,-1,1,Unfunny,Unfunny,0
+Raven,A little upset,Neutral or indifferent,1,0,Unfunny,Funny,2
+Limy,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Unfunny,0
+Pu55y,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Jataaka,Very upset,Somewhat uncomfortable,2,-1,Unfunny,Unfunny,0
+Alpine,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Unfunny,-2
+Negro,Very upset,Somewhat uncomfortable,2,-1,Unfunny,Unfunny,-2
+Jezebel,A little upset,Neutral or indifferent,1,0,Unfunny,Unfunny,-2
+Sucker,Very upset,Somewhat uncomfortable,2,-1,Unfunny,Unfunny,-1
+Peepshpw Peanut,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-1
+Kaffir,Neutral or indifferent,Very uncomfortable,0,-2,Unfunny,Unfunny,-2
+Officer,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Unfunny,0
+Selma Stringer,Neutral or indifferent,Somewhat uncomfortable,0,-1,Unfunny,Unfunny,-1
+Stewart Sixtynine,A little upset,Somewhat uncomfortable,1,-1,Unfunny,Funny,1
+Viper,A little upset,Neutral or indifferent,1,0,Unfunny,Unfunny,0
+Deth,Very upset,Somewhat comfortable,2,1,Funny,Unfunny,-1
+Ford Fister,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-1
+Himalaya Hoes,Very upset,Very uncomfortable,2,-2,Unfunny,Funny,1
+Belle,Very pleased,Somewhat comfortable,-2,1,Unfunny,Unfunny,-2
+Hsu Hao,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Unfunny,-2
+Spitter Skitters,A little upset,Somewhat uncomfortable,1,-1,Unfunny,Unfunny,-2
+Sappy,Very pleased,Neutral or indifferent,-2,0,Unfunny,Unfunny,0
+Clinton,Neutral or indifferent,Very comfortable,0,2,Unfunny,Unfunny,-2
+Flappy,Neutral or indifferent,Somewhat uncomfortable,0,-1,Unfunny,Funny,1
+Jefferson,Very pleased,Very comfortable,-2,2,Unfunny,Unfunny,-1
+Freefuck,Very upset,Very uncomfortable,2,-2,Unfunny,Funny,1
+Dijon,Somewhat pleased,Somewhat uncomfortable,-1,-1,Unfunny,Funny,1
+Jake,Somewhat pleased,Very comfortable,-1,2,Unfunny,Unfunny,-2
+Burrito,Very pleased,Somewhat comfortable,-2,1,Unfunny,Funny,1
+Niggles,Very upset,Somewhat uncomfortable,2,-1,Unfunny,Unfunny,-1
+Manila,A little upset,Very comfortable,1,2,Funny,Unfunny,0
+Zachery,Somewhat pleased,Neutral or indifferent,-1,0,Unfunny,Unfunny,0
+Barry,Somewhat pleased,Very comfortable,-1,2,Unfunny,Unfunny,-2
+Ingrid,Neutral or indifferent,Very comfortable,0,2,Unfunny,Unfunny,0
+Fuckin,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-1
+Enzo,Somewhat pleased,Very comfortable,-1,2,Unfunny,Unfunny,0
+Xeno,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Unfunny,0
+Greaseball,A little upset,Somewhat uncomfortable,1,-1,Unfunny,Funny,1
+Swammy Shithouse,Very upset,Very uncomfortable,2,-2,Unfunny,Funny,2
+Sex Space Case,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-1
+Cornhole,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Bok Choy,Neutral or indifferent,Somewhat uncomfortable,0,-1,Unfunny,Unfunny,0
+Monaco,Neutral or indifferent,Very uncomfortable,0,-2,Unfunny,Unfunny,0
+Fistfuck,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-1
+Chile,Somewhat pleased,Somewhat comfortable,-1,1,Unfunny,Unfunny,-2
+Bubba,Somewhat pleased,Somewhat comfortable,-1,1,Unfunny,Funny,1
+Torro,Neutral or indifferent,Very comfortable,0,2,Unfunny,Unfunny,0
+Harmony,Somewhat pleased,Somewhat comfortable,-1,1,Unfunny,Unfunny,0
+Deb,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Unfunny,-2
+Buzz,Neutral or indifferent,Very comfortable,0,2,Unfunny,Unfunny,0
+Cacker,A little upset,Neutral or indifferent,1,0,Unfunny,Unfunny,-2
+Tyler,Somewhat pleased,Very comfortable,-1,2,Unfunny,Unfunny,-1
+Sniper,A little upset,Very comfortable,1,2,Funny,Funny,1
+Sniggers,Very upset,Neutral or indifferent,2,0,Unfunny,Unfunny,-1
+Nanook,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Funny,1
+Choad,Very upset,Somewhat uncomfortable,2,-1,Unfunny,Unfunny,-1
+Chickpea Colored,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Vienna,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Unfunny,0
+Peppermint,Somewhat pleased,Very comfortable,-1,2,Unfunny,Funny,1
+Scuttle,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Funny,1
+Crabs Christina,Very upset,Somewhat uncomfortable,2,-1,Unfunny,Unfunny,-2
+Porchmonkey,Somewhat pleased,Very uncomfortable,-1,-2,Unfunny,Unfunny,-2
+Pussy Perrier,A little upset,Somewhat uncomfortable,1,-1,Unfunny,Unfunny,-2
+Belvedere,Very pleased,Very comfortable,-2,2,Unfunny,Funny,1
+Nigr,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Firing,Neutral or indifferent,Somewhat uncomfortable,0,-1,Unfunny,Unfunny,-1
+Crack,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Quinlan,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Unfunny,0
+Nastywhore,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Fuckfreak Fern,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Clementine,Somewhat pleased,Very comfortable,-1,2,Unfunny,Unfunny,0
+Rat,A little upset,Somewhat comfortable,1,1,Funny,Funny,1
+Sos,Very upset,Somewhat comfortable,2,1,Funny,Unfunny,-2
+Chile Cocktease,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-1
+Niggling,Very upset,Neutral or indifferent,2,0,Unfunny,Unfunny,-2
+Bootycall,Very upset,Somewhat uncomfortable,2,-1,Unfunny,Funny,1
+Panther,Very pleased,Somewhat comfortable,-2,1,Unfunny,Unfunny,-1
+Clavichord Cumbubble,Very upset,Very uncomfortable,2,-2,Unfunny,Funny,2
+Veronica,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Unfunny,0
+Lesbian,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Stroking,Very upset,Neutral or indifferent,2,0,Unfunny,Funny,1
+Testicle,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Jap,Very upset,Somewhat uncomfortable,2,-1,Unfunny,Unfunny,-1
+Nanook Narcotic,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-1
+Kennedy,Somewhat pleased,Somewhat comfortable,-1,1,Unfunny,Unfunny,0
+Cloud,Neutral or indifferent,Neutral or indifferent,0,0,Unfunny,Unfunny,0
+Palestinian,Neutral or indifferent,Somewhat uncomfortable,0,-1,Unfunny,Unfunny,-1
+Austria,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Unfunny,-2
+Ignacio,A little upset,Very comfortable,1,2,Funny,Unfunny,0
+Walter,Very pleased,Very comfortable,-2,2,Unfunny,Unfunny,0
+Nigerians Nosy,Very upset,Somewhat uncomfortable,2,-1,Unfunny,Unfunny,-2
+Bones,Very pleased,Very comfortable,-2,2,Unfunny,Funny,2
+Sarabi,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Unfunny,0
+Bear,Neutral or indifferent,Very comfortable,0,2,Unfunny,Funny,1
+Hendrix,Very pleased,Very comfortable,-2,2,Unfunny,Unfunny,0
+Sheeney Skitters,Somewhat pleased,Somewhat uncomfortable,-1,-1,Unfunny,Unfunny,-2
+Amos,Somewhat pleased,Very comfortable,-1,2,Unfunny,Unfunny,0
+Natasha,Very pleased,Very comfortable,-2,2,Unfunny,Unfunny,0
+Homosexual,A little upset,Very uncomfortable,1,-2,Unfunny,Unfunny,-2
+Mousse,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Unfunny,0
+Liu Kang,A little upset,Very comfortable,1,2,Funny,Unfunny,0
+Hookers,Very upset,Very uncomfortable,2,-2,Unfunny,Funny,1
+Pat Palesimian,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Unfunny,0
+Kumbullbe,Very upset,Somewhat comfortable,2,1,Funny,Unfunny,-2
+Horney,Very upset,Somewhat uncomfortable,2,-1,Unfunny,Unfunny,-2
+Shitface,Somewhat pleased,Very uncomfortable,-1,-2,Unfunny,Unfunny,-2
+Selma Swallower,A little upset,Very uncomfortable,1,-2,Unfunny,Funny,1
+Clarinet,A little upset,Somewhat uncomfortable,1,-1,Unfunny,Unfunny,0
+Funeral,A little upset,Somewhat uncomfortable,1,-1,Unfunny,Unfunny,-2
+Pric Pudding,A little upset,Very uncomfortable,1,-2,Unfunny,Unfunny,-1
+Tongue,Somewhat pleased,Somewhat comfortable,-1,1,Unfunny,Unfunny,-2
+Puddles,A little upset,Very comfortable,1,2,Funny,Funny,1
+Purinapricness,Very upset,Neutral or indifferent,2,0,Unfunny,Unfunny,-1
+Ona,Somewhat pleased,Very comfortable,-1,2,Unfunny,Unfunny,-1
+Goddamit,Very upset,Neutral or indifferent,2,0,Unfunny,Unfunny,-2
+Titties,Very upset,Very comfortable,2,2,Funny,Funny,1
+Socks,Somewhat pleased,Somewhat comfortable,-1,1,Unfunny,Funny,1
+Reiko Raper,Very upset,Neutral or indifferent,2,0,Unfunny,Unfunny,-2
+Fudgepacker Feivel,A little upset,Very uncomfortable,1,-2,Unfunny,Unfunny,-2
+Beulah,Neutral or indifferent,Neutral or indifferent,0,0,Unfunny,Unfunny,0
+Flash,Very pleased,Very comfortable,-2,2,Unfunny,Funny,1
+Manpaste,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Albiorix Abbo,A little upset,Somewhat uncomfortable,1,-1,Unfunny,Unfunny,-2
+Vittoria,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Unfunny,-2
+Testicle Timon,Very upset,Somewhat comfortable,2,1,Funny,Unfunny,-2
+Erp,Somewhat pleased,Neutral or indifferent,-1,0,Unfunny,Unfunny,0
+Barks,Somewhat pleased,Neutral or indifferent,-1,0,Unfunny,Unfunny,0
+Poof Pros,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Funny,1
+Serena,Very pleased,Somewhat comfortable,-2,1,Unfunny,Unfunny,-1
+Saber Suckoff,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Phoebe,Very pleased,Very comfortable,-2,2,Unfunny,Unfunny,0
+Julie,Somewhat pleased,Neutral or indifferent,-1,0,Unfunny,Funny,1
+Shania,Somewhat pleased,Very comfortable,-1,2,Unfunny,Unfunny,0
+Moles Mandolin,A little upset,Somewhat comfortable,1,1,Funny,Funny,1
+Nutty,A little upset,Somewhat uncomfortable,1,-1,Unfunny,Unfunny,-1
+Peni5,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Lennon,Very pleased,Neutral or indifferent,-2,0,Unfunny,Unfunny,-2
+Cider Cumquat,A little upset,Somewhat uncomfortable,1,-1,Unfunny,Funny,1
+Titjob,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Incest,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Lloyd,Very pleased,Very comfortable,-2,2,Unfunny,Funny,1
+Madison Mothafuckings,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-1
+Pisses Pinot Noir,Very upset,Somewhat uncomfortable,2,-1,Unfunny,Unfunny,-2
+Pops,Somewhat pleased,Neutral or indifferent,-1,0,Unfunny,Unfunny,0
+Batman,Very pleased,Very comfortable,-2,2,Unfunny,Funny,1
+Henley,Somewhat pleased,Somewhat comfortable,-1,1,Unfunny,Unfunny,0
+Nosy,A little upset,Very comfortable,1,2,Funny,Unfunny,-1
+Prick,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,0
+Sexually,A little upset,Very uncomfortable,1,-2,Unfunny,Unfunny,-1
+Swallower,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Petrie,A little upset,Very comfortable,1,2,Funny,Unfunny,-2
+Nassau,A little upset,Very comfortable,1,2,Funny,Unfunny,0
+Juliet,Somewhat pleased,Very comfortable,-1,2,Unfunny,Unfunny,-1
+Lesbain,Neutral or indifferent,Neutral or indifferent,0,0,Unfunny,Unfunny,-2
+Skipper,Very pleased,Very comfortable,-2,2,Unfunny,Unfunny,0
+Grant,Somewhat pleased,Very comfortable,-1,2,Unfunny,Funny,1
+Frida,Very pleased,Very comfortable,-2,2,Unfunny,Unfunny,-1
+Booty Brutus,A little upset,Somewhat uncomfortable,1,-1,Unfunny,Unfunny,-1
+Galatea,Somewhat pleased,Somewhat comfortable,-1,1,Unfunny,Unfunny,0
+Kylie,Somewhat pleased,Very comfortable,-1,2,Unfunny,Unfunny,0
+Barth,Somewhat pleased,Somewhat comfortable,-1,1,Unfunny,Unfunny,-1
+Spam Sextogo,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-1
+Niggard,Very upset,Somewhat uncomfortable,2,-1,Unfunny,Unfunny,-2
+Footfucker Falsetto,Very upset,Very uncomfortable,2,-2,Unfunny,Funny,2
+Madrid Moles,Neutral or indifferent,Somewhat uncomfortable,0,-1,Unfunny,Unfunny,-1
+Theodore,Somewhat pleased,Very comfortable,-1,2,Unfunny,Funny,1
+Junglebunny,A little upset,Very uncomfortable,1,-2,Unfunny,Unfunny,-2
+Minnelli,Neutral or indifferent,Somewhat uncomfortable,0,-1,Unfunny,Unfunny,0
+Digger Demon,A little upset,Somewhat uncomfortable,1,-1,Unfunny,Unfunny,0
+Carruth,A little upset,Neutral or indifferent,1,0,Unfunny,Unfunny,-2
+Cocksucked Chomper,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Rectum,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Executioner,A little upset,Neutral or indifferent,1,0,Unfunny,Funny,1
+Cognac,A little upset,Somewhat uncomfortable,1,-1,Unfunny,Unfunny,-1
+Quint,Very pleased,Somewhat comfortable,-2,1,Unfunny,Unfunny,0
+Pepper Playboy,Very upset,Somewhat uncomfortable,2,-1,Unfunny,Funny,1
+Harding,Somewhat pleased,Somewhat uncomfortable,-1,-1,Unfunny,Unfunny,0
+Ford,Somewhat pleased,Somewhat comfortable,-1,1,Unfunny,Unfunny,-2
+Decaf Dixiedike,Somewhat pleased,Somewhat comfortable,-1,1,Unfunny,Unfunny,-1
+Cappuccino Christian,Somewhat pleased,Somewhat uncomfortable,-1,-1,Unfunny,Unfunny,0
+Cheddar,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Funny,1
+Dingus Dike,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Taipei,Somewhat pleased,Somewhat uncomfortable,-1,-1,Unfunny,Unfunny,0
+Cunilingus Cabbage,Somewhat pleased,Very uncomfortable,-1,-2,Unfunny,Unfunny,-1
+Tartare,Neutral or indifferent,Neutral or indifferent,0,0,Unfunny,Unfunny,-2
+Selena,Very pleased,Very comfortable,-2,2,Unfunny,Unfunny,0
+Barney,A little upset,Very comfortable,1,2,Funny,Unfunny,0
+Otis,Somewhat pleased,Very comfortable,-1,2,Unfunny,Unfunny,-1
+Albiorix,Neutral or indifferent,Very uncomfortable,0,-2,Unfunny,Funny,1
+Spam,Neutral or indifferent,Very uncomfortable,0,-2,Unfunny,Funny,2
+Crabs Congo,Somewhat pleased,Somewhat uncomfortable,-1,-1,Unfunny,Funny,2
+Irene,Somewhat pleased,Very comfortable,-1,2,Unfunny,Unfunny,-1
+Dead Despina,Very upset,Somewhat comfortable,2,1,Funny,Unfunny,-1
+Slurpee Shite,Very upset,Somewhat uncomfortable,2,-1,Unfunny,Unfunny,-2
+Cocksman,A little upset,Somewhat comfortable,1,1,Funny,Unfunny,-2
+Puck,A little upset,Very comfortable,1,2,Funny,Funny,1
+Scat Selena,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Ernest,Somewhat pleased,Somewhat comfortable,-1,1,Unfunny,Unfunny,0
+Threeway Tenor,A little upset,Somewhat uncomfortable,1,-1,Unfunny,Unfunny,0
+Hazel,Somewhat pleased,Somewhat comfortable,-1,1,Unfunny,Unfunny,0
+Britney Bitchez,Very upset,Somewhat uncomfortable,2,-1,Unfunny,Unfunny,-2
+Geezer,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Funny,1
+Jiggy,Very pleased,Somewhat uncomfortable,-2,-1,Unfunny,Funny,2
+Sao,Somewhat pleased,Neutral or indifferent,-1,0,Unfunny,Unfunny,0
+Frittata,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Funny,1
+Piggy,A little upset,Neutral or indifferent,1,0,Unfunny,Funny,1
+Iago,Somewhat pleased,Somewhat comfortable,-1,1,Unfunny,Unfunny,-2
+Spunk Slappy,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Tundra,Somewhat pleased,Neutral or indifferent,-1,0,Unfunny,Unfunny,-2
+Gangbanger,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Sampson,Very pleased,Very comfortable,-2,2,Unfunny,Funny,1
+Smackthemonkey,Very upset,Somewhat uncomfortable,2,-1,Unfunny,Unfunny,-1
+Squaw Shenzi,A little upset,Somewhat uncomfortable,1,-1,Unfunny,Unfunny,-2
+Snake,Neutral or indifferent,Very comfortable,0,2,Unfunny,Unfunny,0
+Guinea Pig,Somewhat pleased,Somewhat uncomfortable,-1,-1,Unfunny,Unfunny,-2
+Panti,A little upset,Very uncomfortable,1,-2,Unfunny,Unfunny,-2
+Olivier,Very pleased,Very comfortable,-2,2,Unfunny,Funny,1
+Smith,Somewhat pleased,Somewhat comfortable,-1,1,Unfunny,Unfunny,-2
+Shav Slimer,Very upset,Somewhat uncomfortable,2,-1,Unfunny,Unfunny,0
+Hitler,Very upset,Very uncomfortable,2,-2,Unfunny,Funny,1
+Suckme,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-1
+Lincoln,Very pleased,Very comfortable,-2,2,Unfunny,Unfunny,-2
+Juniper,Very pleased,Somewhat comfortable,-2,1,Unfunny,Unfunny,0
+Despina,Somewhat pleased,Neutral or indifferent,-1,0,Unfunny,Unfunny,0
+Troy,Very pleased,Somewhat comfortable,-2,1,Unfunny,Unfunny,0
+Private Picaninny,Very upset,Very uncomfortable,2,-2,Unfunny,Funny,1
+Tard Topaz,A little upset,Neutral or indifferent,1,0,Unfunny,Unfunny,-1
+Biff Beaner,Neutral or indifferent,Somewhat uncomfortable,0,-1,Unfunny,Unfunny,-2
+Kums Kira,Very upset,Somewhat uncomfortable,2,-1,Unfunny,Unfunny,0
+Urinate,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-1
+Penelope,Very pleased,Very comfortable,-2,2,Unfunny,Funny,1
+Niggarded Nanook,Very upset,Very uncomfortable,2,-2,Unfunny,Funny,1
+Quigley,Very pleased,Very comfortable,-2,2,Unfunny,Unfunny,0
+Madison,Very pleased,Very comfortable,-2,2,Unfunny,Unfunny,-2
+Shagging Strudel,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-1
+Root Beer,Neutral or indifferent,Very comfortable,0,2,Unfunny,Unfunny,0
+Turkey Trailertrash,Very upset,Very uncomfortable,2,-2,Unfunny,Funny,1
+Patch,Somewhat pleased,Very comfortable,-1,2,Unfunny,Unfunny,-1
+Tide,Neutral or indifferent,Very comfortable,0,2,Unfunny,Unfunny,0
+Gonorrehea,Very upset,Very uncomfortable,2,-2,Unfunny,Funny,1
+Tweek Twobitwhore,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Squaw Scampi,Very upset,Neutral or indifferent,2,0,Unfunny,Unfunny,0
+Nat Nig,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-1
+Yuri,Somewhat pleased,Very comfortable,-1,2,Unfunny,Unfunny,-2
+Fatah Flamer,A little upset,Neutral or indifferent,1,0,Unfunny,Unfunny,0
+Pepper Pussylips,Very upset,Somewhat uncomfortable,2,-1,Unfunny,Funny,1
+Boots,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Funny,2
+Scum Sloth,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Bistro,Somewhat pleased,Very comfortable,-1,2,Unfunny,Funny,1
+Narcissus,A little upset,Somewhat uncomfortable,1,-1,Unfunny,Unfunny,0
+Shitoutofluck Slimer,Very upset,Somewhat uncomfortable,2,-1,Unfunny,Unfunny,-2
+Trailertrash,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Stryker,Very pleased,Very comfortable,-2,2,Unfunny,Unfunny,-2
+Bok Choy Bogan,Somewhat pleased,Very comfortable,-1,2,Unfunny,Unfunny,0
+Niggerhole,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Barface,Very upset,Very uncomfortable,2,-2,Unfunny,Funny,1
+Eatpussy Ellen,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Kabal,Somewhat pleased,Neutral or indifferent,-1,0,Unfunny,Unfunny,0
+Skitters,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Funny,1
+Titfuck,Very upset,Very uncomfortable,2,-2,Unfunny,Funny,1
+Pissed,A little upset,Very uncomfortable,1,-2,Unfunny,Funny,1
+Freddy,Somewhat pleased,Very comfortable,-1,2,Unfunny,Unfunny,0
+Ellie,Very pleased,Very comfortable,-2,2,Unfunny,Unfunny,0
+Roxy,Somewhat pleased,Somewhat comfortable,-1,1,Unfunny,Unfunny,0
+Towelhead Taco,A little upset,Neutral or indifferent,1,0,Unfunny,Funny,1
+Serena Stripclub,Neutral or indifferent,Very uncomfortable,0,-2,Unfunny,Unfunny,-2
+Taco,Somewhat pleased,Somewhat comfortable,-1,1,Unfunny,Funny,2
+Shitfaced Slurpee,A little upset,Neutral or indifferent,1,0,Unfunny,Unfunny,-2
+Ebert Eatpussy,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-1
+Chode,Very upset,Very uncomfortable,2,-2,Unfunny,Funny,1
+Goofy,Very pleased,Somewhat comfortable,-2,1,Unfunny,Funny,2
+Farley,Somewhat pleased,Neutral or indifferent,-1,0,Unfunny,Unfunny,0
+Margaret,Somewhat pleased,Very comfortable,-1,2,Unfunny,Unfunny,0
+Chinese Chris,Very upset,Somewhat comfortable,2,1,Funny,Unfunny,-2
+Jizzum Jennifer,Very upset,Somewhat uncomfortable,2,-1,Unfunny,Unfunny,-1
+Eloise,Very pleased,Neutral or indifferent,-2,0,Unfunny,Funny,1
+Squeeks,Neutral or indifferent,Very comfortable,0,2,Unfunny,Unfunny,-2
+Suckdick,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-1
+Val,Somewhat pleased,Very comfortable,-1,2,Unfunny,Unfunny,0
+Sapphire,Neutral or indifferent,Neutral or indifferent,0,0,Unfunny,Funny,1
+Savannah,Very pleased,Very comfortable,-2,2,Unfunny,Unfunny,0
+Cherrypopper Cressida,Very upset,Somewhat uncomfortable,2,-1,Unfunny,Unfunny,-1
+Diamond,Very pleased,Very comfortable,-2,2,Unfunny,Unfunny,0
+Motaro,Neutral or indifferent,Neutral or indifferent,0,0,Unfunny,Unfunny,0
+Chin Chubby,Very upset,Neutral or indifferent,2,0,Unfunny,Unfunny,-2
+Sea Breeze Slave,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Buster Babe,Very upset,Somewhat uncomfortable,2,-1,Unfunny,Funny,1
+Fornjot,Neutral or indifferent,Neutral or indifferent,0,0,Unfunny,Unfunny,-2
+Olympus,Very pleased,Somewhat comfortable,-2,1,Unfunny,Funny,2
+Israel,Very pleased,Somewhat comfortable,-2,1,Unfunny,Unfunny,0
+Lasagna,Neutral or indifferent,Neutral or indifferent,0,0,Unfunny,Funny,1
+Boris,Neutral or indifferent,Very comfortable,0,2,Unfunny,Unfunny,-2
+Vladimir,A little upset,Somewhat comfortable,1,1,Funny,Unfunny,0
+Premature Piano,A little upset,Somewhat uncomfortable,1,-1,Unfunny,Unfunny,-2
+Sexual,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Harry,Somewhat pleased,Very comfortable,-1,2,Unfunny,Unfunny,-2
+Smoothie,Somewhat pleased,Neutral or indifferent,-1,0,Unfunny,Unfunny,0
+Lonnie,Very pleased,Very comfortable,-2,2,Unfunny,Unfunny,-1
+Fuckfriend,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-1
+Darling,Somewhat pleased,Very comfortable,-1,2,Unfunny,Unfunny,0
+Polly,Somewhat pleased,Very comfortable,-1,2,Unfunny,Unfunny,0
+Spaghettibender Slappy,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-1
+Venom,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Funny,1
+Flute,Somewhat pleased,Somewhat comfortable,-1,1,Unfunny,Funny,1
+Buttmuncher,Very upset,Neutral or indifferent,2,0,Unfunny,Unfunny,-1
+Henley Headfuck,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Margarita Minority,Neutral or indifferent,Somewhat uncomfortable,0,-1,Unfunny,Unfunny,-2
+Spermacide,Very upset,Very uncomfortable,2,-2,Unfunny,Funny,1
+Cooper,Very pleased,Very comfortable,-2,2,Unfunny,Unfunny,0
+Giblet,Neutral or indifferent,Neutral or indifferent,0,0,Unfunny,Funny,1
+Screw Sting,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Funny,1
+Poofy,Neutral or indifferent,Somewhat uncomfortable,0,-1,Unfunny,Funny,1
+Triscuit,A little upset,Somewhat comfortable,1,1,Funny,Unfunny,0
+Cigs,Neutral or indifferent,Very uncomfortable,0,-2,Unfunny,Funny,1
+Shithappens,A little upset,Very uncomfortable,1,-2,Unfunny,Funny,2
+Doo-doo,A little upset,Very uncomfortable,1,-2,Unfunny,Unfunny,0
+Earl,Somewhat pleased,Somewhat comfortable,-1,1,Unfunny,Funny,1
+Terrorist,A little upset,Very uncomfortable,1,-2,Unfunny,Unfunny,-2
+Ham,Neutral or indifferent,Very uncomfortable,0,-2,Unfunny,Funny,1
+Quaid,Very pleased,Somewhat comfortable,-2,1,Unfunny,Funny,1
+Footfucker Flounder,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Swallower Slurpee,A little upset,Somewhat comfortable,1,1,Funny,Unfunny,-2
+Popcorn Phukked,Somewhat pleased,Very uncomfortable,-1,-2,Unfunny,Unfunny,-2
+Dublin,Neutral or indifferent,Neutral or indifferent,0,0,Unfunny,Unfunny,-2
+Max,Very pleased,Very comfortable,-2,2,Unfunny,Funny,1
+Lugan,Somewhat pleased,Very comfortable,-1,2,Unfunny,Unfunny,-2
+Bourbon,A little upset,Somewhat comfortable,1,1,Funny,Funny,1
+Phoenix Pee-pee,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,0
+Jelly,Very pleased,Somewhat comfortable,-2,1,Unfunny,Unfunny,-2
+Kyke Kung Lao,Neutral or indifferent,Very uncomfortable,0,-2,Unfunny,Unfunny,0
+Sadie,Somewhat pleased,Very comfortable,-1,2,Unfunny,Unfunny,-1
+Truman,Somewhat pleased,Very comfortable,-1,2,Unfunny,Unfunny,0
+Algiers,Neutral or indifferent,Neutral or indifferent,0,0,Unfunny,Unfunny,-2
+Accordion,Somewhat pleased,Very comfortable,-1,2,Unfunny,Funny,1
+Thumper,Somewhat pleased,Somewhat comfortable,-1,1,Unfunny,Unfunny,0
+Pineapple,Neutral or indifferent,Very comfortable,0,2,Unfunny,Unfunny,0
+Yvette,Very pleased,Very comfortable,-2,2,Unfunny,Unfunny,-1
+Fisher,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Unfunny,-1
+Manet Masterblaster,Somewhat pleased,Somewhat comfortable,-1,1,Unfunny,Unfunny,0
+Fuks,A little upset,Very uncomfortable,1,-2,Unfunny,Funny,1
+Neo Nigerian,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Boner,A little upset,Somewhat uncomfortable,1,-1,Unfunny,Unfunny,-2
+Paula Pimpsimp,Very upset,Very uncomfortable,2,-2,Unfunny,Funny,1
+Jerkoff Janet,A little upset,Very uncomfortable,1,-2,Unfunny,Funny,2
+Claws,Neutral or indifferent,Neutral or indifferent,0,0,Unfunny,Funny,1
+Bergelmir,Very pleased,Neutral or indifferent,-2,0,Unfunny,Unfunny,0
+Joy,Very pleased,Very comfortable,-2,2,Unfunny,Unfunny,0
+Murderer,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,0
+Setebos Spunky,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Bassoon Backdoorman,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Backdoorman,A little upset,Somewhat uncomfortable,1,-1,Unfunny,Unfunny,-2
+Cowbell,Somewhat pleased,Somewhat uncomfortable,-1,-1,Unfunny,Funny,1
+Assfuck,Very upset,Somewhat uncomfortable,2,-1,Unfunny,Unfunny,-2
+Pommy Perdita,Neutral or indifferent,Neutral or indifferent,0,0,Unfunny,Unfunny,-1
+Avocado,Neutral or indifferent,Very uncomfortable,0,-2,Unfunny,Unfunny,0
+Terrorist Torro,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Spitter,A little upset,Somewhat uncomfortable,1,-1,Unfunny,Unfunny,-1
+Dali,Somewhat pleased,Very comfortable,-1,2,Unfunny,Funny,1
+Viola,Somewhat pleased,Very comfortable,-1,2,Unfunny,Unfunny,0
+Triscuit Tittie,Very upset,Somewhat comfortable,2,1,Funny,Unfunny,-2
+Morrison,Somewhat pleased,Very comfortable,-1,2,Unfunny,Unfunny,0
+Perm,Somewhat pleased,Very comfortable,-1,2,Unfunny,Funny,1
+Bengal,Somewhat pleased,Very comfortable,-1,2,Unfunny,Unfunny,0
+Shoot Storm,Neutral or indifferent,Very comfortable,0,2,Unfunny,Unfunny,-2
+Sixtyniner,Very upset,Neutral or indifferent,2,0,Unfunny,Unfunny,0
+Chaldene Cunnilingus,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Zap,Very pleased,Very comfortable,-2,2,Unfunny,Unfunny,-2
+Chastity Cocksman,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,0
+Pecker Phoenix,Very upset,Somewhat uncomfortable,2,-1,Unfunny,Funny,2
+Spankthemonkey Sam,A little upset,Very uncomfortable,1,-2,Unfunny,Funny,1
+Kale,Somewhat pleased,Neutral or indifferent,-1,0,Unfunny,Funny,1
+Flurry,Somewhat pleased,Somewhat uncomfortable,-1,-1,Unfunny,Unfunny,0
+Angola,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Unfunny,-2
+Oreo,A little upset,Very comfortable,1,2,Funny,Unfunny,0
+Clarinet Cohee,A little upset,Neutral or indifferent,1,0,Unfunny,Unfunny,0
+Toilet,Very upset,Somewhat uncomfortable,2,-1,Unfunny,Funny,1
+Bombing Bengal,Very upset,Somewhat comfortable,2,1,Funny,Funny,1
+Niggah,Very upset,Very comfortable,2,2,Funny,Unfunny,-2
+Murder Marley,A little upset,Somewhat uncomfortable,1,-1,Unfunny,Unfunny,-1
+Slapper,A little upset,Neutral or indifferent,1,0,Unfunny,Funny,1
+Sax Spick,Neutral or indifferent,Somewhat uncomfortable,0,-1,Unfunny,Unfunny,-2
+Asmara,Somewhat pleased,Somewhat comfortable,-1,1,Unfunny,Unfunny,0
+Willie,Neutral or indifferent,Very comfortable,0,2,Unfunny,Unfunny,-2
+Billy,Very pleased,Very comfortable,-2,2,Unfunny,Unfunny,0
+Marx,Very pleased,Somewhat comfortable,-2,1,Unfunny,Unfunny,0
+Samantha,Very pleased,Somewhat comfortable,-2,1,Unfunny,Unfunny,0
+Taft Turnon,Neutral or indifferent,Neutral or indifferent,0,0,Unfunny,Unfunny,0
+Jon,Somewhat pleased,Very comfortable,-1,2,Unfunny,Unfunny,0
+Toffee,Very pleased,Very comfortable,-2,2,Unfunny,Unfunny,0
+Dodger Dickbrain,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-1
+Bombers,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Unfunny,0
+Professor X Panties,A little upset,Very uncomfortable,1,-2,Unfunny,Unfunny,-2
+Frost,Very pleased,Very comfortable,-2,2,Unfunny,Unfunny,0
+Carmella,Very pleased,Very comfortable,-2,2,Unfunny,Unfunny,-2
+Usher,Somewhat pleased,Neutral or indifferent,-1,0,Unfunny,Unfunny,0
+Mofo,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,0
+Rosalind,Somewhat pleased,Somewhat comfortable,-1,1,Unfunny,Unfunny,0
+Shitted,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Primetime,A little upset,Very uncomfortable,1,-2,Unfunny,Unfunny,0
+Dublin Dago,A little upset,Somewhat comfortable,1,1,Funny,Funny,1
+Enrique,Somewhat pleased,Very uncomfortable,-1,-2,Unfunny,Unfunny,0
+Lingerie Lloyd,Very upset,Somewhat uncomfortable,2,-1,Unfunny,Unfunny,-2
+Buffy,Somewhat pleased,Very comfortable,-1,2,Unfunny,Funny,1
+Felatio,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,0
+Gilligan,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Unfunny,0
+Hot Dog,Very pleased,Somewhat comfortable,-2,1,Unfunny,Funny,2
+Orpheus,Somewhat pleased,Neutral or indifferent,-1,0,Unfunny,Unfunny,-2
+Bunz,A little upset,Neutral or indifferent,1,0,Unfunny,Funny,1
+Asspuppies,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Manet,A little upset,Neutral or indifferent,1,0,Unfunny,Funny,1
+Fujin,Neutral or indifferent,Very comfortable,0,2,Unfunny,Unfunny,0
+Xanthus,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Unfunny,0
+Princess,Somewhat pleased,Very comfortable,-1,2,Unfunny,Unfunny,0
+Buttman,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Mofo Marx,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,0
+Fenton Fingerfuckers,A little upset,Very uncomfortable,1,-2,Unfunny,Unfunny,-2
+Demon,Somewhat pleased,Somewhat uncomfortable,-1,-1,Unfunny,Unfunny,-2
+Splittail Sable,A little upset,Somewhat comfortable,1,1,Funny,Funny,1
+Sloppy Joe Shitstain,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Merlot Molest,A little upset,Somewhat uncomfortable,1,-1,Unfunny,Unfunny,-1
+Coffee,Neutral or indifferent,Very comfortable,0,2,Unfunny,Unfunny,-1
+Penis,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Usama,A little upset,Somewhat uncomfortable,1,-1,Unfunny,Funny,1
+Liza,Somewhat pleased,Very comfortable,-1,2,Unfunny,Funny,1
+Bubbles,Neutral or indifferent,Very comfortable,0,2,Unfunny,Funny,1
+Vaginal,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Sixtynine Stephanie,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Jock,Somewhat pleased,Somewhat uncomfortable,-1,-1,Unfunny,Unfunny,0
+Sheeney Sunshine,Somewhat pleased,Somewhat comfortable,-1,1,Unfunny,Funny,1
+Fuckwhore Flynn,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Felicity,Somewhat pleased,Very comfortable,-1,2,Unfunny,Unfunny,0
+Sally Snatchpatch,A little upset,Neutral or indifferent,1,0,Unfunny,Funny,2
+Piky,A little upset,Neutral or indifferent,1,0,Unfunny,Unfunny,0
+Cumquat,A little upset,Very uncomfortable,1,-2,Unfunny,Funny,2
+Guitar,Somewhat pleased,Somewhat comfortable,-1,1,Unfunny,Unfunny,0
+Dingleberry,Very upset,Somewhat comfortable,2,1,Funny,Unfunny,-1
+Ebert,Neutral or indifferent,Very comfortable,0,2,Unfunny,Unfunny,-1
+Fingerfood,A little upset,Somewhat uncomfortable,1,-1,Unfunny,Unfunny,-1
+Erol,Somewhat pleased,Neutral or indifferent,-1,0,Unfunny,Unfunny,0
+Byatch,Very upset,Somewhat uncomfortable,2,-1,Unfunny,Unfunny,-2
+Spaz,A little upset,Neutral or indifferent,1,0,Unfunny,Unfunny,-2
+Ethel,Very pleased,Somewhat comfortable,-2,1,Unfunny,Unfunny,0
+Melody,Somewhat pleased,Neutral or indifferent,-1,0,Unfunny,Unfunny,-2
+Shack,Neutral or indifferent,Neutral or indifferent,0,0,Unfunny,Unfunny,0
+Sumac,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Funny,1
+Vomit,Very upset,Very uncomfortable,2,-2,Unfunny,Funny,1
+Twitter Tits,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Pubic,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Slushie,Neutral or indifferent,Very comfortable,0,2,Unfunny,Funny,1
+Pom Pom Pimp,A little upset,Somewhat uncomfortable,1,-1,Unfunny,Funny,1
+Izod,A little upset,Somewhat comfortable,1,1,Funny,Unfunny,-1
+Ivanka,Very pleased,Neutral or indifferent,-2,0,Unfunny,Funny,1
+Fucker,A little upset,Somewhat comfortable,1,1,Funny,Unfunny,-2
+Stagg Sasquatch,A little upset,Very uncomfortable,1,-2,Unfunny,Unfunny,-1
+Pu55i,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-1
+Pedro Pixie,Neutral or indifferent,Somewhat uncomfortable,0,-1,Unfunny,Unfunny,-2
+Elmira,Very pleased,Very comfortable,-2,2,Unfunny,Funny,1
+Spit Smiley,Very upset,Somewhat uncomfortable,2,-1,Unfunny,Unfunny,0
+Fuckbag Flemming,Very upset,Neutral or indifferent,2,0,Unfunny,Unfunny,-2
+Siarnaq,A little upset,Somewhat uncomfortable,1,-1,Unfunny,Unfunny,-1
+Licker,Neutral or indifferent,Very uncomfortable,0,-2,Unfunny,Funny,1
+Madrid,Somewhat pleased,Very comfortable,-1,2,Unfunny,Unfunny,-2
+Mimas Mastabate,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-1
+Ghost Rider,Neutral or indifferent,Neutral or indifferent,0,0,Unfunny,Funny,1
+Lucy,Somewhat pleased,Somewhat comfortable,-1,1,Unfunny,Unfunny,0
+Zebra,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Unfunny,0
+Gyp,A little upset,Neutral or indifferent,1,0,Unfunny,Unfunny,-2
+Wanker,Very upset,Somewhat uncomfortable,2,-1,Unfunny,Unfunny,-2
+Pocho,A little upset,Neutral or indifferent,1,0,Unfunny,Unfunny,0
+Victor,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Funny,1
+Doyle,Somewhat pleased,Somewhat comfortable,-1,1,Unfunny,Funny,1
+Athens,Somewhat pleased,Neutral or indifferent,-1,0,Unfunny,Unfunny,-1
+Sheeva Sheeney,Neutral or indifferent,Neutral or indifferent,0,0,Unfunny,Unfunny,-2
+Tonguetramp,Very upset,Very uncomfortable,2,-2,Unfunny,Funny,1
+Hostage,Very upset,Somewhat uncomfortable,2,-1,Unfunny,Funny,2
+Morpheus,Neutral or indifferent,Neutral or indifferent,0,0,Unfunny,Unfunny,0
+Smoke,Neutral or indifferent,Neutral or indifferent,0,0,Unfunny,Unfunny,0
+Mavado,Very pleased,Somewhat comfortable,-2,1,Unfunny,Funny,1
+Infinity,Neutral or indifferent,Very comfortable,0,2,Unfunny,Funny,1
+Sheeney,Very pleased,Somewhat comfortable,-2,1,Unfunny,Unfunny,-1
+Dotcom,Somewhat pleased,Somewhat comfortable,-1,1,Unfunny,Unfunny,-1
+Children's,Neutral or indifferent,Very uncomfortable,0,-2,Unfunny,Unfunny,0
+Nelson,Very pleased,Somewhat uncomfortable,-2,-1,Unfunny,Unfunny,0
+Amaretto,Neutral or indifferent,Neutral or indifferent,0,0,Unfunny,Unfunny,0
+Belafonte,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Unfunny,0
+Conch,Somewhat pleased,Neutral or indifferent,-1,0,Unfunny,Unfunny,0
+Scag,A little upset,Very uncomfortable,1,-2,Unfunny,Unfunny,0
+Mahogany,Neutral or indifferent,Neutral or indifferent,0,0,Unfunny,Unfunny,0
+Pornflick Pumbaa,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Gob,Somewhat pleased,Very comfortable,-1,2,Unfunny,Funny,1
+Warhol,Somewhat pleased,Very comfortable,-1,2,Unfunny,Unfunny,0
+Backdoorman Bette,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Poindexter,Very pleased,Very comfortable,-2,2,Unfunny,Funny,1
+Tarbaby,Neutral or indifferent,Somewhat uncomfortable,0,-1,Unfunny,Unfunny,-1
+Prostitute,Very upset,Very uncomfortable,2,-2,Unfunny,Funny,1
+Deapthroat Denver,A little upset,Somewhat uncomfortable,1,-1,Unfunny,Unfunny,-2
+Hiv,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Illusion,Somewhat pleased,Neutral or indifferent,-1,0,Unfunny,Unfunny,0
+Gerty,Neutral or indifferent,Very comfortable,0,2,Unfunny,Unfunny,0
+Donny,Very pleased,Somewhat comfortable,-2,1,Unfunny,Unfunny,0
+Nooner,Neutral or indifferent,Neutral or indifferent,0,0,Unfunny,Unfunny,-2
+Thirdeye,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Unfunny,-1
+Lowlife,Neutral or indifferent,Somewhat uncomfortable,0,-1,Unfunny,Unfunny,-2
+Sequoia Scat,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Unfunny,-2
+Caviar,Neutral or indifferent,Neutral or indifferent,0,0,Unfunny,Unfunny,0
+Crappy Carlotta,A little upset,Very uncomfortable,1,-2,Unfunny,Funny,2
+Catholic,Neutral or indifferent,Somewhat uncomfortable,0,-1,Unfunny,Unfunny,-2
+Apoc,Somewhat pleased,Neutral or indifferent,-1,0,Unfunny,Unfunny,-2
+Cupcake,Very pleased,Neutral or indifferent,-2,0,Unfunny,Funny,1
+Goober,Neutral or indifferent,Somewhat comfortable,0,1,Unfunny,Unfunny,0
+Tequini,Somewhat pleased,Neutral or indifferent,-1,0,Unfunny,Unfunny,-1
+Corn Dog Crack-whore,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2
+Shitstain,Very upset,Very uncomfortable,2,-2,Unfunny,Unfunny,-2

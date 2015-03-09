@@ -1,0 +1,39 @@
+<!-- Bootstrap v3.0.3 -->
+<link href="https://s3.amazonaws.com/mturk-public/bs30/css/bootstrap.min.css" rel="stylesheet" />
+<section class="container" id="Survey" style="margin-bottom:15px; padding: 10px 10px; font-family: Verdana, Geneva, sans-serif; color:#333333; font-size:0.9em;">
+<div class="row col-xs-12 col-md-12"><!-- Instructions -->
+<div class="panel panel-primary">
+<div class="panel-heading"><strong>Instructions</strong></div>
+
+<div class="panel-body">
+<p><span style="font-size: 12px; color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif; line-height: normal;">Consider the image of the dog below:</span></p>
+
+<div style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif; font-size: 12px; line-height: normal;">&nbsp;</div>
+<img src="${Image}" style="margin-right: 10px; width: 320px; height: auto;" /></div>
+</div>
+<!-- End Instructions --><!-- Survey Body -->
+
+<section>
+<fieldset><label>How <i>humorous</i> do you find the name &quot;${Name}&quot; is for this dog? </label>
+
+<div class="radio"><label><input name="Funny" type="radio" value="Very unfunny" />Very unfunny </label></div>
+
+<div class="radio"><label><input name="Funny" type="radio" value="Somewhat unfunny" />Somewhat unfunny </label></div>
+
+<div class="radio"><label><input name="Funny" type="radio" value="Indifferent" />Indifferent </label></div>
+
+<div class="radio"><label><input name="Funny" type="radio" value="Somewhat funny" />Somewhat funny </label></div>
+
+<div class="radio"><label><input name="Funny" type="radio" value="Very funny" />Very funny </label></div>
+</fieldset>
+</section>
+<!-- End Survey Body --></div>
+</section>
+<!-- close container -->
+<style type="text/css">fieldset {
+    padding: 10px;
+    background:#fbfbfb;
+    border-radius:5px;
+    margin-bottom:5px;
+}
+</style>
